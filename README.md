@@ -2,4 +2,4 @@
 
 Fonte: https://transparenciacovid19.ok.org.br
 
-https://mybinder.org/v2/gh/FNFR/COVID-19_DF/master
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FNFR/COVID-19_DF/master)
